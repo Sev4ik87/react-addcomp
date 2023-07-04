@@ -1,0 +1,13 @@
+.info-article {
+  margin-bottom: 20px;
+}
+
+.info-article h2 {
+  color: #333;
+  font-size: 18px;
+}
+
+.info-article p {
+  color: #777;
+  font-size: 14px;
+}
